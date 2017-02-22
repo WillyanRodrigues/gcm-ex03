@@ -1,1 +1,7 @@
-# gcm-ex03
+    # gcm-ex03
+    
+    # Gestão de configurações
+    
+    Autor : Willyan
+    
+    Aula : 21/02
